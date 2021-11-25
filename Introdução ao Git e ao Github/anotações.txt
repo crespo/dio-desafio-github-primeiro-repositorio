@@ -1,0 +1,6 @@
+Pastas e arquivo .txt foram criados a partir de comandos aprendidos no curso de linux, como por exemplo:
+- mkdir (criar pastas)
+- rmdir (remover pastas)
+- touch (criar arquivo .txt)
+- nano (usar o processador de texto GNU nano para editar o arquivo)
+- cat (para ler o .txt e ter certeza do que escrevi)
